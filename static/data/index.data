@@ -1,0 +1,48 @@
+[
+	{
+		"imgSlider":[
+			{"id":1,"img":"../../../static/img/han.png"},
+			{"id":2,"img":"../../../static/img/818qlj.jpg"},
+			{"id":3,"img":"../../../static/img/fang.jpg"},
+			{"id":4,"img":"../../../static/img/qixi.jpg"}
+		],
+		"imgY":[
+			{"id":5,"imgs":"../../../static/img/yanayundian.png"},
+			{"id":6,"imgs":"../../../static/img/site.xinke.jpg"}
+		],
+		"imgMid":[
+			{"id":7,"img":"../../../static/img/miaosha.jpg"},
+			{"id":8,"img":"../../../static/img/guangou.png"},
+			{"id":9,"img":"../../../static/img/xinpin.png"}
+		],
+		"imgBrand":[
+			{"id":10,"img":"../../../static/img/1503402866.jpg"},
+			{"id":11,"img":"../../../static/img/qixi.jpg"},
+			{"id":12,"img":"../../../static/img/han.png"},
+			{"id":13,"img":"../../../static/img/818qlj.jpg"},
+			{"id":14,"img":"../../../static/img/fang.jpg"}
+		],
+		"Boutique":[
+			{"id":15,"img":"../../../static/img/watch.jpg","name":"Tissot","introduce":"经典怀旧款石英男表","price":"￥2978.00","discountPrice":"￥1985.00"},
+			{"id":16,"img":"../../../static/img/hltn.jpg","name":"Roberto Cavalli","introduce":"豹纹女士真丝丝巾","price":"￥1665.00","discountPrice":"￥1045.00"},
+			{"id":17,"img":"../../../static/img/57f302.jpg","name":"Nutrilon","introduce":"荷兰版4段800g2罐","price":"￥684.00","discountPrice":"￥456.00"},
+			{"id":18,"img":"../../../static/img/c07824.jpg","name":"Hermès","introduce":"红色牛皮女士单肩包","price":"￥54717.00","discountPrice":"￥36478.00"},
+			{"id":19,"img":"../../../static/img/watch.jpg","name":"Tissot","introduce":"经典怀旧款石英男表","price":"￥2978.00","discountPrice":"￥1985.00"},
+			{"id":20,"img":"../../../static/img/hltn.jpg","name":"Roberto Cavalli","introduce":"豹纹女士真丝丝巾","price":"￥1665.00","discountPrice":"￥1045.00"},
+			{"id":21,"img":"../../../static/img/57f302.jpg","name":"Nutrilon","introduce":"荷兰版4段800g2罐","price":"￥684.00","discountPrice":"￥456.00"},
+			{"id":22,"img":"../../../static/img/c07824.jpg","name":"Hermès","introduce":"红色牛皮女士单肩包","price":"￥54717.00","discountPrice":"￥36478.00"},
+			{"id":23,"img":"../../../static/img/watch.jpg","name":"Tissot","introduce":"经典怀旧款石英男表","price":"￥2978.00","discountPrice":"￥1985.00"},
+			{"id":24,"img":"../../../static/img/hltn.jpg","name":"Roberto Cavalli","introduce":"豹纹女士真丝丝巾","price":"￥1665.00","discountPrice":"￥1045.00"},
+			{"id":25,"img":"../../../static/img/57f302.jpg","name":"Nutrilon","introduce":"荷兰版4段800g2罐","price":"￥684.00","discountPrice":"￥456.00"},
+			{"id":26,"img":"../../../static/img/c07824.jpg","name":"Hermès","introduce":"红色牛皮女士单肩包","price":"￥54717.00","discountPrice":"￥36478.00"},
+			{"id":27,"img":"../../../static/img/watch.jpg","name":"Tissot","introduce":"经典怀旧款石英男表","price":"￥2978.00","discountPrice":"￥1985.00"},
+			{"id":28,"img":"../../../static/img/hltn.jpg","name":"Roberto Cavalli","introduce":"豹纹女士真丝丝巾","price":"￥1665.00","discountPrice":"￥1045.00"},
+			{"id":29,"img":"../../../static/img/57f302.jpg","name":"Nutrilon","introduce":"荷兰版4段800g2罐","price":"￥684.00","discountPrice":"￥456.00"},
+			{"id":30,"img":"../../../static/img/c07824.jpg","name":"Hermès","introduce":"红色牛皮女士单肩包","price":"￥54717.00","discountPrice":"￥36478.00"},
+			{"id":31,"img":"../../../static/img/watch.jpg","name":"Tissot","introduce":"经典怀旧款石英男表","price":"￥2978.00","discountPrice":"￥1985.00"},
+			{"id":32,"img":"../../../static/img/hltn.jpg","name":"Roberto Cavalli","introduce":"豹纹女士真丝丝巾","price":"￥1665.00","discountPrice":"￥1045.00"},
+			{"id":33,"img":"../../../static/img/57f302.jpg","name":"Nutrilon","introduce":"荷兰版4段800g2罐","price":"￥684.00","discountPrice":"￥456.00"},
+			{"id":34,"img":"../../../static/img/c07824.jpg","name":"Hermès","introduce":"红色牛皮女士单肩包","price":"￥54717.00","discountPrice":"￥36478.00"}
+		]
+	}
+]
